@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BlockchainApp</string>
+    <string name="base_url">https://blockchain.info</string>
+    <string name="key">
+        xpub6CfLQa8fLgtouvLxrb8EtvjbXfoC1yqzH6YbTJw4dP7srt523AhcMV8Uh4K3TWSHz9oDWmn9MuJogzdGU3ncxkBsAC9wFBLmFrWT9Ek81kQ
+    </string>
+    <string name="fetch_transaction">Fetching Tansactions</string>
+    <string name="fetch_balance">Final Balance: %s</string>
+    <string name="number_of_transaction">Total transactions: %s</string>
+    <string name="fee_label">Fee:</string>
+    <string name="address_label">Address:</string>
+    <string name="fetch_error">Error retrieving transactions</string>
+    <string name="retry">Retry</string>
+    <string name="transactionListLabel">Transaction List</string>
+    <string name="result_label">Result:</string>
+</resources>
